@@ -1,0 +1,117 @@
+*{
+		margin: 0px;
+		padding: 0px;
+	
+	}/*para alinhar tudo*/
+
+.logo {
+    width: 550px; 
+    height: auto; 
+	padding-bottom:10px;
+	padding-top: 10px;
+}
+
+
+body{
+	background-color: #5C3317;
+}
+p.destaque {
+	color: #e39c2e;
+	font-size: 25px;
+	font-family: Berlin Sans FB;
+	margin-top: 10px;
+}
+p.texto {
+	color: #ffffff;
+	font-size: 15px;
+	font-family: Berlin Sans FB;
+	text-align: justify;
+	float: left;
+	clear: both;
+	margin-bottom: 10px;
+	margin-left: 164px;
+	margin-right: 164px;
+}
+p.texto1 {
+	color: #ffffff;
+	font-size: 15px;
+	font-family: Berlin Sans FB;
+	text-align: justify;
+	float: left;
+	clear: both;
+	margin-bottom: 5px;
+}
+p.texto2 {
+	color: #e39c2e;
+	font-size: 25px;
+	font-family: Berlin Sans FB;
+	text-align: justify;
+	float: left;
+	clear: both;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}
+
+
+#principal{
+	height: auto;
+	width: 80%;
+	margin: 0 auto !important;
+	border-radius: 5px 5px 5px 5px;
+	background-color: #ff0000;
+}
+	
+#cabecalho{ /*propiedades do cabeçalho*/
+	height: 100px;
+	width: 100%;
+	margin-bottom: 2px;
+	float: right;
+	text-align: center;
+	font-size: 24px;
+}
+
+#conteudo{
+	height:auto;
+	width: auto;
+	margin-bottom: 2px;
+	text-align: center;
+	color:#ffffff;
+}
+
+#menu{ /* propiedade dos menus*/
+	text-align: center;
+	height: auto;
+	font-size: 22px;
+	display: block;
+	width: 100%;
+	font-family: Berlin Sans FB;
+	padding-bottom:10px;
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+#menu li{
+	list-style: none;
+	display: inline;
+	position:relative;
+	
+}
+
+#rodape{
+	width: 100%;
+    clear: both;
+    font-size: 12px;
+    text-align: center;
+    font-family: sans-serif;
+    color: #ffffff;
+    margin-top: 10px;
+    padding: 10px 0px;
+	background-color: #a0a0a0;
+	border-radius: 5px;
+	bottom: 0;
+}
+
+li {
+	list-style: none;
+}
+
+
